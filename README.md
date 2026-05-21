@@ -5,11 +5,11 @@ Teacher List
 
 202-C List
 1. Idria, Tracy Allen P.
-2. Golosino, Atheena Ghabriell M.
+2. 
 3. Jesoro, John Lui R.
 4.
 5. 
-6. Mansueto,nikyross L.
+6. Golosino, Atheena Ghabriell M.
 7. 
 8. 
 9. 
@@ -29,7 +29,7 @@ Teacher List
 23. Madlangbayan, Lenard G.
 24. 
 25. 
-26. 
+26. Mansueto,nikyross L.
 27. Maraan, Angelo F.
 28. 
 
